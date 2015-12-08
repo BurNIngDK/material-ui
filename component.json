@@ -1,0 +1,15 @@
+{
+    "repos": "https://github.com/callemall/material-ui.git",
+    "version": "v0.14.0-rc1",
+    "name": "material-ui",
+    "main": "lib/index.js",
+    "dependencies": {
+        "inline-style-prefixer": "^0.5.2",
+        "lodash.throttle": "~3.0.4",
+        "react-addons-transition-group": "^0.14.0",
+        "react-addons-update": "^0.14.0",
+        "react-addons-create-fragment": "^0.14.0",
+        "react-addons-pure-render-mixin": "^0.14.0",
+        "warning": "^2.1.0"
+    }
+}
