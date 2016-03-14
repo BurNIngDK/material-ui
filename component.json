@@ -2,20 +2,25 @@
     "name": "material-ui",
     "description": "Material Design UI components built with React",
     "repos": "https://github.com/callemall/material-ui.git",
-    "main": "lib/index",
+    "main": "./lib",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
         "inline-style-prefixer": "^0.6.6",
-        "lodash.merge": "^3.3.2",
-        "lodash.throttle": "~3.0.4",
+        "keycode": "^2.1.0",
+        "lodash.flowright": "^3.2.1",
+        "lodash.merge": "^4.1.0",
+        "lodash.throttle": "^4.0.0",
         "react-addons-create-fragment": "^0.14.0",
         "react-addons-pure-render-mixin": "^0.14.0",
         "react-addons-transition-group": "^0.14.0",
         "react-addons-update": "^0.14.0",
+        "react-event-listener": "^0.1.1",
+        "recompose": "^0.15.0",
+        "simple-assign": "^0.1.0",
         "warning": "^2.1.0",
         "react": "^0.14.0",
         "react-dom": "^0.14.0"
     },
-    "version": "0.14.4"
+    "version": "0.15.0-alpha.1"
 }
